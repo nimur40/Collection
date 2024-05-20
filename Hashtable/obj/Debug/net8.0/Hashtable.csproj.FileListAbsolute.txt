@@ -1,0 +1,14 @@
+E:\Git\Collection\Hashtable\bin\Debug\net8.0\Hashtable.exe
+E:\Git\Collection\Hashtable\bin\Debug\net8.0\Hashtable.deps.json
+E:\Git\Collection\Hashtable\bin\Debug\net8.0\Hashtable.runtimeconfig.json
+E:\Git\Collection\Hashtable\bin\Debug\net8.0\Hashtable.dll
+E:\Git\Collection\Hashtable\bin\Debug\net8.0\Hashtable.pdb
+E:\Git\Collection\Hashtable\obj\Debug\net8.0\Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\Collection\Hashtable\obj\Debug\net8.0\Hashtable.AssemblyInfoInputs.cache
+E:\Git\Collection\Hashtable\obj\Debug\net8.0\Hashtable.AssemblyInfo.cs
+E:\Git\Collection\Hashtable\obj\Debug\net8.0\Hashtable.csproj.CoreCompileInputs.cache
+E:\Git\Collection\Hashtable\obj\Debug\net8.0\Hashtable.dll
+E:\Git\Collection\Hashtable\obj\Debug\net8.0\refint\Hashtable.dll
+E:\Git\Collection\Hashtable\obj\Debug\net8.0\Hashtable.pdb
+E:\Git\Collection\Hashtable\obj\Debug\net8.0\Hashtable.genruntimeconfig.cache
+E:\Git\Collection\Hashtable\obj\Debug\net8.0\ref\Hashtable.dll

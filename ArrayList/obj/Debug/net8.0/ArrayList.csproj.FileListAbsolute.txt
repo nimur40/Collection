@@ -1,0 +1,14 @@
+E:\Git\Collection\ArrayList\bin\Debug\net8.0\ArrayList.exe
+E:\Git\Collection\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+E:\Git\Collection\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+E:\Git\Collection\ArrayList\bin\Debug\net8.0\ArrayList.dll
+E:\Git\Collection\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+E:\Git\Collection\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\Collection\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+E:\Git\Collection\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+E:\Git\Collection\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+E:\Git\Collection\ArrayList\obj\Debug\net8.0\ArrayList.dll
+E:\Git\Collection\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+E:\Git\Collection\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+E:\Git\Collection\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+E:\Git\Collection\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll
